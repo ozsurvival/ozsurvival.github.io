@@ -1,4 +1,8 @@
 name: ozsurvival
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
+social:
+  - name: twitter
+    url: https://twitter.com/ozsurvival/
+  - name: instagram
+    url: https://www.instagram.com/ozsurvival/
