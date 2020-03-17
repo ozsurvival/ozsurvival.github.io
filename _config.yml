@@ -1,8 +1,13 @@
+theme: minima
 name: ozsurvival
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-social:
-  - name: twitter
-    url: https://twitter.com/ozsurvival/
-  - name: instagram
-    url: https://www.instagram.com/ozsurvival/
+show_excerpts: true
+minima:
+  social_links:
+    twitter: jekyllrb
+    facebook: jekyll
+    instagram: ozsurvival
+    youtube: jekyll
+    youtube_channel: 
+    youtube_channel_name: CloudCannon
