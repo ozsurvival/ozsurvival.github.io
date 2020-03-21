@@ -26,6 +26,6 @@ In Australia we might be looking to what should this wardrobe include:
 
 Add to this any seasonal wear you might need depending on your location, you'll likely not need snow gear in FNQ, and vice versa. Also, I'm not including specific workwear, which again is highly dependent on your location and job.
 
-A great article talking over these ideas was written by [Swift Silent Deadly](https://swiftsilentdeadly.com/edc-part-0-a-case-for-the-individual-uniform/)
+A great article talking over these ideas was written by [Swift Silent Deadly](https://swiftsilentdeadly.com/edc-part-0-a-case-for-the-individual-uniform/){:target="_blank"}
 
 *Nor should you: looking like a member of the military will likely cause more issues should anything happen.
