@@ -64,7 +64,7 @@ Table 2
 Example of a list of simple dry foods that will cover basic energy needs (9 MJ per day), and most nutrients except vitamin C and vitamin A. Daily food ration and purchase list for 10 weeks for one person is shown. The food items could be packed in airtight packages filled with inert gas of a few kilos per package, and stored in food stores throughout the country. In addition multivitamin tablets have to be provided.
 
 |Food 				                             |g/day| 	|kg/person/10weeks|
----
+|---|---|---|
 |Wheat flour, wholemeal plain 	           |150 	  |10.5|
 |Oats, raw 			                           |100 	  |7.0|
 |Oil, Canola 			                         |25 	    |1.8|
