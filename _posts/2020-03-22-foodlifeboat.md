@@ -4,7 +4,7 @@ title: "Food Lifeboat"
 date: 2020-03-22
 ---
 
-This is a copy of an imporatant article I think people should use as a basis for food preperations, theres a lot more to be said, and detailed but this I believe gives people the best basis for successful food preparedness. The orginal website which linked toe hte article is no longer avaliable, but I beleive it one of the best researched articles into food preparedness, hence why I'm sharing it in full. Of specific note is the Table 2, this I believe should be the basis for any serious food preperations going forwards. 
+This is a copy of an important article I think people should use as a basis for food preperations, there is a lot more to be said and detailed, but this I believe gives people the best basis for successful food preparedness. The original website which linked to the article is no longer avaliable, but I beleive it one of the best researched articles into food preparedness, hence why I'm sharing it in full. Of specific note is the Table 2, this I believe should be the basis for any serious food preperations going forwards. 
 
 The Food "Lifeboat": food and nutrition considerations in the event of a pandemic or other catastrophe.
 
