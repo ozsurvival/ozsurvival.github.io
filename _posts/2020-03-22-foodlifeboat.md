@@ -20,6 +20,7 @@ Table 1
 
 An example of a food list providing 9 MJ per day. Daily food ration and purchase list for 10 weeks for one person is shown. The food covers all nutrient needs.
 
+<pre>
 Food 					                          g/day 	kg/person/10 weeks
 Milk powder, NS fat, dry* 		          65 	    4.6
 Weet-Bix (regular) (Breakfast cereal) 	30 	    2.1
@@ -52,6 +53,7 @@ Juice, carrot 				                  50 	    3.5
 Juice, orange 				                  50 	    3.5
 Vegemite (Yeast extract) 		            2 	    0.1
 Chocolate 				                      30 	    2.1
+</pre>
 
 Total daily ration gives 9.0 MJ, providing 80 g protein, 80 g fat, thereof 23 g saturated fat (10 % of total energy intake is coming from saturated fat, and 31% of the fat intake is saturated fat), 18 g polyunsaturated fat (22% of the fat intake), 35 g monounsaturated fat (47% of the fat intake). The cholesterol intake is 101 mg per day. Percent of energy from protein, fat and carbohydrate: 16 E% protein, 34 E% fat, 50 E% carbohydrates. Recommended intake of all nutrients is covered for women and men, except for folate intake which is not covered for women of childbearing age, therefore they may consider a folate supplement. *In case of lactose intolerance, the intake of dry milk powder may be reduced and replaced by soy protein powder. Alternatively, the milk may be fermented and used in form of sour milk.
 
@@ -60,7 +62,7 @@ The cost of this diet for 10 weeks for one person is about $500. The most expens
 Table 2
 
 Example of a list of simple dry foods that will cover basic energy needs (9 MJ per day), and most nutrients except vitamin C and vitamin A. Daily food ration and purchase list for 10 weeks for one person is shown. The food items could be packed in airtight packages filled with inert gas of a few kilos per package, and stored in food stores throughout the country. In addition multivitamin tablets have to be provided.
-
+<pre>
 Food 				                             g/day 	kg/person/10weeks
 
 Wheat flour, wholemeal plain 	           150 	  10.5
@@ -75,6 +77,7 @@ Fruit, mixed, dried 		                  35 	   2.5
 Almonds, raw 			                        40 	   2.8
 Multivitamin/mineral supplement       One tablet 	One box
 
+</pre>
 This example gives 9 MJ per day, with 80 g protein and 76 g fat, thereof 14 g saturated fat (6 % of the energy intake comes from saturated fat and 20% of the fat intake is saturated fat), 18 g polyunsaturated fat (26% of the fat is polyunsaturated fat) and 39 g monounsaturated fat (54% of the fat is monounsaturated fat). The daily cholesterol intake is 43 mg. Percent of energy from protein, fat and carbohydrate: 16 E% protein, 32 E% fat, 52 E% carbohydrates. Recommended intake of nutrients is covered for women and men, except for vitamin C and vitamin A, and these would have to be given as supplements and for women at childbearing age the intake of folate and iron is lower than recommended.
 
 *In case of lactose intolerance, the intake of dry milk powder may be reduced and replaced by soy protein powder. Alternatively, the milk may be fermented and used in fermented, sour form.
