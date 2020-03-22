@@ -20,40 +20,40 @@ Table 1
 
 An example of a food list providing 9 MJ per day. Daily food ration and purchase list for 10 weeks for one person is shown. The food covers all nutrient needs.
 
-<pre>
-Food 					                          g/day 	kg/person/10 weeks
-Milk powder, NS fat, dry* 		          65 	    4.6
-Weet-Bix (regular) (Breakfast cereal) 	30 	    2.1
-Pasta, regular, dry 			              20 	    1.4
-Instant noodles 			                  20 	    1.4
-Rice 					                          25 	    1.8
-Dehydrated potato flakes 		            15 	    1.1
-Tortilla 				                        10 	    0.7
-Biscuit, savoury 			                  15 	    1.1
-Biscuit, wholemeal 			                20 	    1.4
-Oil, canola 				                    20 	    1.4
-Powdered soup 				                  20 	    1.4
-Sweet chilli sauce 			                10 	    0.7
-Tomato concentrate 			                10    	0.7
-Tuna, canned 				                    60 	    4.2
-Spam, regular 				                  40 	    2.8
-Lentils, dry 				                    20 	    1.4
-Peas, green canned 			                20 	    1.4
-Three beans mix 			                  50 	    3.5
-Baked beans, canned in tomato sauce 	  20 	    1.4
-Corn, canned 				                    50 	    3.5
-Sun-dried tomatoes 			                20 	    1.4
-Milo (Beverage base) 			              10 	    0.7
-Seaweed, dried 				                  10 	    0.7
-Raisins 				                        30 	    2.1
-Honey 					                        10 	    0.7
-Almonds 				                        20 	    1.4
-Apricots, dried, raw 			              20    	1.4
-Juice, carrot 				                  50 	    3.5
-Juice, orange 				                  50 	    3.5
-Vegemite (Yeast extract) 		            2 	    0.1
-Chocolate 				                      30 	    2.1
-</pre>
+|Food 					                          |g/day 	|kg/person/10 weeks|
+|---|---|---|
+|Milk powder, NS fat, dry* 		          |65 	    |4.6|
+|Weet-Bix (regular) (Breakfast cereal) 	|30 	    |2.1|
+|Pasta, regular, dry 			              |20 	    |1.4|
+|Instant noodles 			                  |20 	    |1.4|
+|Rice 					                        |25 	    |1.8|
+|Dehydrated potato flakes 		          |15 	    |1.1|
+|Tortilla 				                      |10 	    |0.7|
+|Biscuit, savoury 			                |15 	    |1.1|
+|Biscuit, wholemeal 			              |20 	    |1.4|
+|Oil, canola 				                    |20 	    |1.4|
+|Powdered soup 				                  |20 	    |1.4|
+|Sweet chilli sauce 			              |10 	    |0.7|
+|Tomato concentrate 			              |10    	  |0.7|
+|Tuna, canned 				                  |60 	    |4.2|
+|Spam, regular 				                  |40 	    |2.8|
+|Lentils, dry 				                  |20 	    |1.4|
+|Peas, green canned 			              |20 	    |1.4|
+|Three beans mix 			                  |50 	    |3.5|
+|Baked beans, canned in tomato sauce 	  |20 	    |1.4|
+|Corn, canned 				                  |50 	    |3.5|
+|Sun-dried tomatoes 			              |20 	    |1.4|
+|Milo (Beverage base) 			            |10 	    |0.7|
+|Seaweed, dried 				                |10 	    |0.7|
+|Raisins 				                        |30 	    |2.1|
+|Honey 					                        |10 	    |0.7|
+|Almonds 				                        |20 	    |1.4|
+|Apricots, dried, raw 			            |20    	  |1.4|
+|Juice, carrot 				                  |50 	    |3.5|
+|Juice, orange 				                  |50 	    |3.5|
+|Vegemite (Yeast extract) 		          |2 	      |0.1|
+|Chocolate 				                      |30 	    |2.1|
+
 
 Total daily ration gives 9.0 MJ, providing 80 g protein, 80 g fat, thereof 23 g saturated fat (10 % of total energy intake is coming from saturated fat, and 31% of the fat intake is saturated fat), 18 g polyunsaturated fat (22% of the fat intake), 35 g monounsaturated fat (47% of the fat intake). The cholesterol intake is 101 mg per day. Percent of energy from protein, fat and carbohydrate: 16 E% protein, 34 E% fat, 50 E% carbohydrates. Recommended intake of all nutrients is covered for women and men, except for folate intake which is not covered for women of childbearing age, therefore they may consider a folate supplement. *In case of lactose intolerance, the intake of dry milk powder may be reduced and replaced by soy protein powder. Alternatively, the milk may be fermented and used in form of sour milk.
 
